@@ -1,4 +1,4 @@
-# Palm_Recognition_System
+# Palm Vein Identification System
 
 ## CODES
 - https://github.com/WarBean/tps_stn_pytorch
