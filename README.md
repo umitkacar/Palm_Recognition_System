@@ -1,5 +1,9 @@
 # Palm Vein Identification System
 
+## RESEARCH
+- https://biolab.csr.unibo.it/research.asp?organize=Activities&select=&selObj=222&pathSubj=222&Req=&
+- https://dsl.cds.iisc.ac.in/projects/Anguli/ (Fingerprint)
+
 ## CODES
 - https://github.com/WarBean/tps_stn_pytorch
 - https://github.com/holzweber/palmprint-recognition
